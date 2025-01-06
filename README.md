@@ -1,2 +1,2 @@
 # GenAI-Heaelthcare
-Strategic and Competitive Intelligence Shiny App for Generative AI in Healthcare: Overview: Developed a dynamic Shiny dashboard for analyzing global trends, patents, and research in generative AI applications for mental healthcare, combining data from patents, research publications, and Google search trends.
+Developed an interactive Shiny app to analyze global trends, patents, and sentiment data related to generative AI (GenAI) solutions in healthcare. The dashboard provides actionable insights into research trends, patent activity, public interest, and sentiment analysis, empowering strategic decision-making in the domain of AI-driven healthcare.
