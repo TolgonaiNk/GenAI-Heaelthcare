@@ -10,6 +10,7 @@ Frequent Terms in Patents:
 Created a word cloud to highlight frequently used terms in patent filings related to generative AI and mental healthcare.
 Geographic Patent Insights:
 Showcased country-specific trends and top companies with patent filings in interactive visualizations.
+
 2. Global Search Trends
 
 Keyword Popularity Analysis:
@@ -17,11 +18,13 @@ Analyzed global search trends for GenAI healthcare solutions (e.g., mental healt
 Interactive line charts and maps provided insights into regional variations in keyword popularity.
 Frequent Search Terms:
 Highlighted the most frequently searched terms with a bar chart visualization.
+
 3. Sentiment Analysis
 
 App Review Sentiments:
 Processed app store reviews to display positive and negative sentiments using faceted bar charts.
 Generated a word cloud of frequently used terms in reviews, providing insights into user feedback and satisfaction.
+
 4. Research and Competitive Analysis
 
 Publication Trends:
